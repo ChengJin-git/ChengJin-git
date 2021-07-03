@@ -6,7 +6,7 @@ Hi, I'm Cheng Jin, a passionate self-taught Computer Vision Learner from China.
 
 🎓 &nbsp; I'm a Junior Undergraduate Student studying at UESTC (2018-2022), China.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Computer Vision.\
-✍️ &nbsp;In my free time, I read novels, watch movies, write my diary and pursue drawing as my hobbies.\
+✍️ &nbsp;In my free time, I read novels, watch movies (animation/sci-fi/documentary/drama), write my diary and pursue drawing as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for discuss about the aforementioned topics!\
 📄 &nbsp;Currently I am working on medical image segmentation. You can check my [Résumé](https://chengjin-git.github.io/files/resume/resume-en.pdf) for more details about work experience.
 
