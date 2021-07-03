@@ -32,4 +32,9 @@ Hi, I'm Cheng Jin, a passionate self-taught Computer Vision Learner from China.
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/hxsxa634l6f1hq5nsv1fqigtd)
 
+---
+
 [![Cheng Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChengJin-git)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChengJin-git&layout=compact)](https://github.com/ChengJin-git/github-readme-stats)
+
+
