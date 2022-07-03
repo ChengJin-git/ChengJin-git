@@ -4,7 +4,7 @@ Hi, I'm Cheng Jin, a passionate self-taught Computer Vision Learner from China.
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp; I'm a Senior Undergraduate Student studying at UESTC (2018-2022), China.\
+🎓 &nbsp; I'm a Ph. D. Student studying at HKUST (2022-2026), Hong Kong, China.\
 🌱 &nbsp; I'm on track for learning more about Artificial Intelligence and Computer Vision.\
 ✍️ &nbsp; In my free time, I read novels, watch movies (animation/sci-fi/documentary/drama), write my diary and pursue drawing as my hobbies.\
 💬 &nbsp; Feel free to reach out to me for discuss about the aforementioned topics!\
