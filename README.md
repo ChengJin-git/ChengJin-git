@@ -1,4 +1,4 @@
-### Hi there, I am [Cheng Jin](chengjin.netlify.app)! 👋
+### Hi there, I am [Cheng Jin](https://chengjin.netlify.app)! 👋
 
 Hi, I'm Cheng Jin, a passionate self-taught Computer Vision Learner from China.
 
