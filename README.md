@@ -34,7 +34,11 @@ Hi, I'm Cheng Jin, a passionate self-taught Computer Vision Learner from China.
 
 ---
 
-[![Cheng Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChengJin-git)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChengJin-git&layout=compact)](https://github.com/ChengJin-git/github-readme-stats)
+### 📈 My Stats
+
+|Community|Language|
+|---|---|
+|<img src="https://github-readme-stats.vercel.app/api?username=ChengJin-git&show_icons=true&theme=github_dark&hide_title=false" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChengJin-git&layout=compact&hide=html&theme=github_dark&langs_count=8" style="height:195px;cursor:default" />|
+
 
 
